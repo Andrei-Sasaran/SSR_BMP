@@ -1,0 +1,12 @@
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.csproj.AssemblyReference.cache
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.Form1.resources
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.Properties.Resources.resources
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.csproj.GenerateResource.cache
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.csproj.CoreCompileInputs.cache
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\bin\Debug\UniversitatiDatabasemdf.mdf
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\bin\Debug\UniversitatiDatabasemdf_log.ldf
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\bin\Debug\BdUniversitati.exe.config
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\bin\Debug\BdUniversitati.exe
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\bin\Debug\BdUniversitati.pdb
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.exe
+C:\Faculta An 3\Sem2\II\Lab2\BdUniversitati\BdUniversitati\obj\Debug\BdUniversitati.pdb
