@@ -45,7 +45,7 @@ namespace BdUniversitati
             listBox_Fac.Items.Clear();
             textBox_City.Clear();
             int code = 0;
-            String UnivSelected = listBox_Univ.SelectedIndex.ToString();
+            String UnivSelected = listBox_Univ.SelectedItem.ToString();
             foreach(DataRow dr in dsUniv.Tables["Universitati"].Rows)
             {
                 if(UnivSelected == dr.ItemArray.GetValue(1).ToString())

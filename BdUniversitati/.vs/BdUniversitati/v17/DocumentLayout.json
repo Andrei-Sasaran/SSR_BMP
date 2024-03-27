@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Faculta An 3\\Sem2\\II\\Lab2\\BdUniversitati\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sasar\\Desktop\\UTCN\\Git\\SharedRepositories\\Paul\\SSR_BMP\\BdUniversitati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C20EB6-DCFB-4866-8A98-B8A5CAEE3E5C}|BdUniversitati\\BdUniversitati.csproj|c:\\users\\sasar\\desktop\\utcn\\git\\sharedrepositories\\paul\\ssr_bmp\\bduniversitati\\bduniversitati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1C20EB6-DCFB-4866-8A98-B8A5CAEE3E5C}|BdUniversitati\\BdUniversitati.csproj|solutionrelative:bduniversitati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasar\\Desktop\\UTCN\\Git\\SharedRepositories\\Paul\\SSR_BMP\\BdUniversitati\\BdUniversitati\\Form1.cs",
+              "RelativeDocumentMoniker": "BdUniversitati\\Form1.cs",
+              "ToolTip": "C:\\Users\\sasar\\Desktop\\UTCN\\Git\\SharedRepositories\\Paul\\SSR_BMP\\BdUniversitati\\BdUniversitati\\Form1.cs [Design]",
+              "RelativeToolTip": "BdUniversitati\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:20:16.183Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
